@@ -21,4 +21,4 @@ You may also see any lint errors in the console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was built following the react tutorial on building a tic-tac-toe: https://reactjs.org/tutorial/tutorial.html
+This project was built following the [React tutorial on building a tic-tac-toe](https://reactjs.org/tutorial/tutorial.html)
